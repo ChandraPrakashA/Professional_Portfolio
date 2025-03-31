@@ -1,5 +1,3 @@
-Readme file info:
-
 Title : Adapting to Challenges
 Objectives:
 Identify biblical examples of adaptive leadership.
