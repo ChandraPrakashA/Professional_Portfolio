@@ -1,3 +1,20 @@
+Artifact_3 contains the work I have done during my 4th week of AI/Ml course and application of the knowledge using ML algoeithmn for Parkinson's disease detection
+
+Title : Parkinson's Disease Detection using SVM algorithmn
+Objectives:
+To predict whether a person has Parkinson's disease using biomedical voice data. SVM does a best job in classification as it gives good accuracy on voice features and works well on high dimensional data.
+
+Value proposition:
+A practical machine learning solution for early detection of Parkinson's disease.
+Provides both the doctors and researchers with a voice-based diagnostic assistant.
+Model can be extended with larger, more balanced datasets and clinical features.
+
+Tools/Resourses:
+Jupyter Notebook
+Python Libraries: pandas, scikit-learn, seaborn, matplotlib
+UCI Parkinson’s Dataset
+
+------------------------------------------------------------------------------------------------------------------------------------
 Title : Adapting to Challenges
 Objectives:
 Identify biblical examples of adaptive leadership.
@@ -9,7 +26,7 @@ b.Reflect on a moment when you need to take a significant risk or make a tough d
 Tools/Resourses:
 The Holy Bible, New International Version (2011)
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Title : Communicating for Learning
 Objectives:
