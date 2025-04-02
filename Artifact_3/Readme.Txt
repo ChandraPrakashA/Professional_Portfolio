@@ -1,4 +1,4 @@
-Artifact_3 contains the work I have done during my 4th week of AI/Ml course and application of the knowledge using ML algoeithmn for Parkinson's disease detection
+Artifact_3 contains the work I have done during my 4th week of AI/Ml course and application of the knowledge using ML algorithmn(SVM) for Parkinson's disease detection
 
 Title : Parkinson's Disease Detection using SVM algorithmn
 Objectives:
