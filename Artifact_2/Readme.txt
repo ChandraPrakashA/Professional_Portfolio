@@ -17,7 +17,7 @@ UCI Dataset
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-The following artifact 
+The following report 
 Machine Learning vs Deep learning
 
 Title : ML vs DL report differentiates between machine learning and deep learning by analyzing a real-world case study
