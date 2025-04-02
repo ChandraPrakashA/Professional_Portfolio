@@ -1,4 +1,4 @@
-AI Lab Project Showcase:
+Artifact_1 is about AI Lab Project Showcase:
 
 Title: Assessing an LLM Using a Structured Prompt & Developing a Subscription & Payment Management Chatbot 
 Goal/Objective: 
