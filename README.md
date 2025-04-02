@@ -1,13 +1,10 @@
 # Professional_Portfolio
+This Professional portfolio contains artifacts which is the work I have done during my AI/ML course.
 
-Artifact_1 is about AI Lab Project Showcase.
+Artifact_1 is about AI Lab Project Showcase the work I have done during intial 2 weeks of my AI/Ml course and application of the knowledge.
 
 Artifact_2 contains the work I have done during my 3rd week of AI/Ml course and application of the knowledge using ML algoeithmn(Logistic regression) for Email spam detection.
 
+Artifact_3 contains the work I have done during my 4th week of AI/Ml course and application of the knowledge using ML algoeithmn for Parkinson's disease detection
 
-Title: Assessing an LLM Using a Structured Prompt & Developing a Subscription & Payment Management Chatbot
-Objective: The goal of this project was to explore structured interactions with a LLM and to develop a functional AI-powered Subscription & Payment Management Chatbot. The project emphasized AI testing, backtesting methodologies, and completing structured AI-driven tasks to evaluate model responses and enhance chatbot efficiency.
-Chatbots AccessLink : 
-https://www.chatbase.co/dashboard/nandyyy66s-team/chatbot/mMy72h5NCayGS70avLH8A 
-https://mizou.com/preview-bot?ID=66036
 
