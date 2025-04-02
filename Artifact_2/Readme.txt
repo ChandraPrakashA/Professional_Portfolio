@@ -1,4 +1,4 @@
-Artifact_2 contains the work I have done during my 3rd week of AI/Ml course and application of the knowledge using ML algoeithmn(Logistic regression) for Email spam detection.
+Artifact_2 contains the work I have done during my 3rd week of AI/Ml course and application of the knowledge using ML algorithmn(Logistic regression) for Email spam detection.
 
 Title : Email Spam Detection using Logistic Regression
 Goal/Objectives:
